@@ -1,0 +1,17 @@
+
+.BLUE {
+  background: #00428D;
+}
+
+.BROWN {
+  color: #444444;
+}
+
+.back {
+    background: #6C747C;
+  }
+
+.cover img {
+      width:50px;
+      height:40px;
+  }
