@@ -12,6 +12,10 @@
   }
 
 .cover img {
-      width:50px;
+      width:40px;
       height:40px;
+  }
+
+.myfont {
+    font-family: "Times New Roman", Times, serif;
   }
