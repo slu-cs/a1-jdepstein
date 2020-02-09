@@ -1,10 +1,14 @@
 
+.BLACK{
+  background: #010101
+}
+
 
 .back {
     background: #5DA1AF;
   }
 
-.cover img {
+.brand-img img {
       width:40px;
       height:40px;
   }
