@@ -19,8 +19,8 @@ Overall comments on grading questions:
 
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
-    - The members list isn't navigational, so probably shouldn't be a <nav> (in index.html).
-    - There shouldn't be more than one <main> on a page (see reg.html and abs.html for example).
+    - The members list isn't navigational, so probably shouldn't be a nav (in index.html).
+    - There shouldn't be more than one main on a page (see reg.html and abs.html for example).
     - The Emails page is sort of outside the navigational structure. Seems like it could be merged with the Contact Us page.
     - A consistent sub-menu on the Voting page, with active-link highlighting, would help visitors keep track of where they are.
 
